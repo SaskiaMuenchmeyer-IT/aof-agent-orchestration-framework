@@ -4,6 +4,13 @@ AOF ist ein offenes Framework für den Entwurf, Betrieb und die Governance von K
 
 Es beschreibt KI-Agenten nicht als magische Assistenten, sondern als kontrollpflichtige Systemakteure: mit Rolle, Kontext, Regeln, Rechten, Verantwortung, Qualitätssicherung und Lebenszyklus.
 
+## Ressourcen
+
+- 📄 Poster
+- 🌐 Blogartikel - https://wirsind-it.de/blog/ki/aof-ein-framework-zum-betrieb-von-ki-agenten/
+- 📝 Changelog
+- 📜 Lizenz
+
 ## Grundsatz
 
 Agenten folgen Rollen.  
