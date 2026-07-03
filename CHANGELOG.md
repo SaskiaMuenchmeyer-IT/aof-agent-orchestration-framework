@@ -2,6 +2,13 @@
 
 Alle wichtigen Änderungen am Agenten-Orchestrierungs-Framework (AOF) werden in dieser Datei dokumentiert.
 
+## [0.11] - 2026-07-03
+
+### Geändert
+- Positionierung des Frameworks als Framework für den Betrieb von KI-Agenten geschärft.
+- Begriff "KI-Agent" im Poster konsequenter verwendet.
+- Einleitung zur Zielsetzung präzisiert.
+
 ## [0.10] - 2026-07-01
 
 ### Erstveröffentlichung
