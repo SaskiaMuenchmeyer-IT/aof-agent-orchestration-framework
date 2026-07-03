@@ -13,7 +13,7 @@ Es beschreibt KI-Agenten nicht als magische Assistenten, sondern als kontrollpfl
 
 ## Grundsatz
 
-Agenten folgen Rollen.  
+KI-Agenten folgen Rollen.  
 Rechte folgen Aufgaben.  
 Kritische Aktionen brauchen Kontrolle.
 
