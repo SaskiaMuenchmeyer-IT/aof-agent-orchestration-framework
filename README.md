@@ -19,8 +19,6 @@ Kritische Aktionen brauchen Kontrolle.
 
 ## Lizenz
 
-## Lizenz
-
 Dieses Projekt steht unter der Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 
 Sie dürfen die Inhalte verwenden, weitergeben und bearbeiten, sofern Sie den Urheber nennen und abgeleitete Werke unter derselben Lizenz veröffentlichen.
