@@ -2,6 +2,12 @@
 
 Alle wichtigen Änderungen am Agenten-Orchestrierungs-Framework (AOF) werden in dieser Datei dokumentiert.
 
+## [0.11] - 2026-07-10
+
+## Geändert
+- Änderung des Namens von Agenten-Orchestration-Framework zu AI-Orchestration-Framework, oder Deusch AI-Orchestrierungs-Framework
+- Erweiterung der Readme um Entstehung und Warum AOF?
+
 ## [0.11] - 2026-07-03
 
 ### Geändert
